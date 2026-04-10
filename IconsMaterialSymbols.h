@@ -267,7 +267,6 @@
 #define ICON_MS_APP_REGISTRATION "\xee\xbd\x80"	// U+ef40
 #define ICON_MS_APP_SETTINGS_ALT "\xef\x8b\x99"	// U+f2d9
 #define ICON_MS_APP_SHORTCUT "\xef\x8b\x9f"	// U+f2df
-#define ICON_MS_APP_SPARK "\xf3\xbf\xbe\x82"	// U+fff82
 #define ICON_MS_APPAREL "\xee\xbd\xbb"	// U+ef7b
 #define ICON_MS_APPROVAL "\xee\xa6\x82"	// U+e982
 #define ICON_MS_APPROVAL_DELEGATION "\xef\xa1\x8a"	// U+f84a
@@ -534,6 +533,8 @@
 #define ICON_MS_BLENDER "\xee\xbf\xa3"	// U+efe3
 #define ICON_MS_BLIND "\xef\xa3\x96"	// U+f8d6
 #define ICON_MS_BLINDS "\xee\x8a\x86"	// U+e286
+#define ICON_MS_BLINDS_2 "\xf3\xbf\xbd\xb8"	// U+fff78
+#define ICON_MS_BLINDS_2_CLOSED "\xf3\xbf\xbd\xb9"	// U+fff79
 #define ICON_MS_BLINDS_CLOSED "\xee\xb0\x9f"	// U+ec1f
 #define ICON_MS_BLOCK "\xef\x82\x8c"	// U+f08c
 #define ICON_MS_BLOOD_PRESSURE "\xee\x82\x97"	// U+e097
@@ -1495,7 +1496,6 @@
 #define ICON_MS_FIT_PAGE_WIDTH "\xef\x8e\x96"	// U+f396
 #define ICON_MS_FIT_SCREEN "\xee\xa8\x90"	// U+ea10
 #define ICON_MS_FIT_WIDTH "\xef\x9d\xb9"	// U+f779
-#define ICON_MS_FITBIT_RAQUETBALL "\xf3\xbf\xbf\x85"	// U+fffc5
 #define ICON_MS_FITNESS_CENTER "\xee\xad\x83"	// U+eb43
 #define ICON_MS_FITNESS_TRACKER "\xef\x91\xa3"	// U+f463
 #define ICON_MS_FITNESS_TRACKERS "\xee\xbb\xb1"	// U+eef1
@@ -1651,7 +1651,6 @@
 #define ICON_MS_FRAME_PERSON_OFF "\xef\x9f\x91"	// U+f7d1
 #define ICON_MS_FRAME_RELOAD "\xef\x9d\xb1"	// U+f771
 #define ICON_MS_FRAME_SOURCE "\xef\x9d\xb0"	// U+f770
-#define ICON_MS_FRAME_SPARK "\xf3\xbf\xbe\x81"	// U+fff81
 #define ICON_MS_FREE_BREAKFAST "\xee\xad\x84"	// U+eb44
 #define ICON_MS_FREE_CANCELLATION "\xee\x9d\x88"	// U+e748
 #define ICON_MS_FRONT_HAND "\xee\x9d\xa9"	// U+e769
@@ -1698,6 +1697,7 @@
 #define ICON_MS_GARAGE "\xef\x80\x91"	// U+f011
 #define ICON_MS_GARAGE_CHECK "\xef\x8a\x8d"	// U+f28d
 #define ICON_MS_GARAGE_DOOR "\xee\x9c\x94"	// U+e714
+#define ICON_MS_GARAGE_DOOR_OPEN "\xf3\xbf\xbd\xb7"	// U+fff77
 #define ICON_MS_GARAGE_HOME "\xee\xa0\xad"	// U+e82d
 #define ICON_MS_GARAGE_MONEY "\xef\x8a\x8c"	// U+f28c
 #define ICON_MS_GARDEN_CART "\xef\xa2\xa9"	// U+f8a9
@@ -2124,6 +2124,7 @@
 #define ICON_MS_LIFT_TO_TALK "\xee\xbe\xa3"	// U+efa3
 #define ICON_MS_LIGHT "\xef\x80\xaa"	// U+f02a
 #define ICON_MS_LIGHT_GROUP "\xee\x8a\x8b"	// U+e28b
+#define ICON_MS_LIGHT_GROUP_2 "\xf3\xbf\xbd\xb6"	// U+fff76
 #define ICON_MS_LIGHT_MODE "\xee\x94\x98"	// U+e518
 #define ICON_MS_LIGHT_OFF "\xee\xa6\xb8"	// U+e9b8
 #define ICON_MS_LIGHTBULB "\xee\xa4\x8f"	// U+e90f
@@ -2131,6 +2132,7 @@
 #define ICON_MS_LIGHTBULB_CIRCLE "\xee\xaf\xbe"	// U+ebfe
 #define ICON_MS_LIGHTBULB_OUTLINE "\xee\xa4\x8f"	// U+e90f
 #define ICON_MS_LIGHTNING_STAND "\xee\xbe\xa4"	// U+efa4
+#define ICON_MS_LIGHTSTRIP "\xf3\xbf\xbd\xb5"	// U+fff75
 #define ICON_MS_LINE_AXIS "\xee\xaa\x9a"	// U+ea9a
 #define ICON_MS_LINE_CURVE "\xef\x9d\x97"	// U+f757
 #define ICON_MS_LINE_END "\xef\xa0\xa6"	// U+f826
@@ -2475,6 +2477,7 @@
 #define ICON_MS_MOVIE "\xee\x90\x84"	// U+e404
 #define ICON_MS_MOVIE_CREATION "\xee\x90\x84"	// U+e404
 #define ICON_MS_MOVIE_EDIT "\xef\xa1\x80"	// U+f840
+#define ICON_MS_MOVIE_EDIT_OFF "\xf3\xbf\xbd\xbd"	// U+fff7d
 #define ICON_MS_MOVIE_FILTER "\xee\x90\xba"	// U+e43a
 #define ICON_MS_MOVIE_INFO "\xee\x80\xad"	// U+e02d
 #define ICON_MS_MOVIE_OFF "\xef\x92\x99"	// U+f499
@@ -3237,6 +3240,7 @@
 #define ICON_MS_SELF_CARE "\xef\xa1\xad"	// U+f86d
 #define ICON_MS_SELF_IMPROVEMENT "\xee\xa9\xb8"	// U+ea78
 #define ICON_MS_SELL "\xef\x81\x9b"	// U+f05b
+#define ICON_MS_SELL_CLOUD "\xf3\xbf\xbd\xbb"	// U+fff7b
 #define ICON_MS_SEND "\xee\x85\xa3"	// U+e163
 #define ICON_MS_SEND_AND_ARCHIVE "\xee\xa8\x8c"	// U+ea0c
 #define ICON_MS_SEND_MONEY "\xee\xa2\xb7"	// U+e8b7
@@ -3302,6 +3306,8 @@
 #define ICON_MS_SETTINGS_VOICE "\xee\xa3\x88"	// U+e8c8
 #define ICON_MS_SETTOP_COMPONENT "\xee\x8a\xac"	// U+e2ac
 #define ICON_MS_SEVERE_COLD "\xee\xaf\x93"	// U+ebd3
+#define ICON_MS_SHADES "\xf3\xbf\xbd\xb3"	// U+fff73
+#define ICON_MS_SHADES_CLOSED "\xf3\xbf\xbd\xb4"	// U+fff74
 #define ICON_MS_SHADOW "\xee\xa7\x9f"	// U+e9df
 #define ICON_MS_SHADOW_ADD "\xef\x96\x84"	// U+f584
 #define ICON_MS_SHADOW_MINUS "\xef\x96\x83"	// U+f583
@@ -3447,6 +3453,7 @@
 #define ICON_MS_SOUND_DETECTION_GLASS_BREAK "\xef\x85\x8a"	// U+f14a
 #define ICON_MS_SOUND_DETECTION_LOUD_SOUND "\xef\x85\x8b"	// U+f14b
 #define ICON_MS_SOUND_SAMPLER "\xef\x9a\xb4"	// U+f6b4
+#define ICON_MS_SOUNDBAR "\xf3\xbf\xbd\xb2"	// U+fff72
 #define ICON_MS_SOUP_KITCHEN "\xee\x9f\x93"	// U+e7d3
 #define ICON_MS_SOURCE "\xef\x87\x88"	// U+f1c8
 #define ICON_MS_SOURCE_ENVIRONMENT "\xee\x94\xa7"	// U+e527
@@ -3464,6 +3471,7 @@
 #define ICON_MS_SPATIAL_SPEAKER "\xef\x93\x8f"	// U+f4cf
 #define ICON_MS_SPATIAL_TRACKING "\xee\xaf\xaa"	// U+ebea
 #define ICON_MS_SPEAKER "\xee\x8c\xad"	// U+e32d
+#define ICON_MS_SPEAKER_2 "\xf3\xbf\xbd\xb1"	// U+fff71
 #define ICON_MS_SPEAKER_GROUP "\xee\x8c\xae"	// U+e32e
 #define ICON_MS_SPEAKER_NOTES "\xee\xa3\x8d"	// U+e8cd
 #define ICON_MS_SPEAKER_NOTES_OFF "\xee\xa4\xaa"	// U+e92a
@@ -3627,6 +3635,7 @@
 #define ICON_MS_SUBTITLES_OFF "\xee\xbd\xb2"	// U+ef72
 #define ICON_MS_SUBWAY "\xee\x95\xaf"	// U+e56f
 #define ICON_MS_SUBWAY_WALK "\xef\x8a\x87"	// U+f287
+#define ICON_MS_SUBWOOFER "\xf3\xbf\xbd\xb0"	// U+fff70
 #define ICON_MS_SUMMARIZE "\xef\x81\xb1"	// U+f071
 #define ICON_MS_SUNNY "\xee\xa0\x9a"	// U+e81a
 #define ICON_MS_SUNNY_SNOWING "\xee\xa0\x99"	// U+e819
@@ -3668,6 +3677,7 @@
 #define ICON_MS_SWITCH_ACCOUNT "\xee\xa7\xad"	// U+e9ed
 #define ICON_MS_SWITCH_CAMERA "\xee\x90\x9e"	// U+e41e
 #define ICON_MS_SWITCH_LEFT "\xef\x87\x91"	// U+f1d1
+#define ICON_MS_SWITCH_OFF "\xf3\xbf\xbd\xaf"	// U+fff6f
 #define ICON_MS_SWITCH_RIGHT "\xef\x87\x92"	// U+f1d2
 #define ICON_MS_SWITCH_VIDEO "\xee\x90\x9f"	// U+e41f
 #define ICON_MS_SWITCHES "\xee\x9c\xb3"	// U+e733
@@ -3894,9 +3904,7 @@
 #define ICON_MS_TRANSITION_PUSH "\xef\x94\x8b"	// U+f50b
 #define ICON_MS_TRANSITION_SLIDE "\xef\x94\x8a"	// U+f50a
 #define ICON_MS_TRANSLATE "\xee\xa3\xa2"	// U+e8e2
-#define ICON_MS_TRANSLATE_CC "\xf3\xbf\xbe\x80"	// U+fff80
 #define ICON_MS_TRANSLATE_INDIC "\xef\x89\xa3"	// U+f263
-#define ICON_MS_TRANSLATE_SUBTITLES "\xf3\xbf\xbd\xbf"	// U+fff7f
 #define ICON_MS_TRANSPORTATION "\xee\x88\x9d"	// U+e21d
 #define ICON_MS_TRAVEL "\xee\xbe\x93"	// U+ef93
 #define ICON_MS_TRAVEL_EXPLORE "\xee\x8b\x9b"	// U+e2db
@@ -3982,6 +3990,8 @@
 #define ICON_MS_USER_ATTRIBUTES "\xee\x9c\x88"	// U+e708
 #define ICON_MS_VACCINES "\xee\x84\xb8"	// U+e138
 #define ICON_MS_VACUUM "\xee\xbf\x85"	// U+efc5
+#define ICON_MS_VACUUM_2 "\xf3\xbf\xbd\xad"	// U+fff6d
+#define ICON_MS_VACUUM_2_ON "\xf3\xbf\xbd\xae"	// U+fff6e
 #define ICON_MS_VALVE "\xee\x88\xa4"	// U+e224
 #define ICON_MS_VAPE_FREE "\xee\xaf\x86"	// U+ebc6
 #define ICON_MS_VAPING_ROOMS "\xee\xaf\x8f"	// U+ebcf
@@ -4214,9 +4224,7 @@
 #define ICON_MS_YOSHOKU "\xef\x89\xbf"	// U+f27f
 #define ICON_MS_YOUR_TRIPS "\xee\xac\xab"	// U+eb2b
 #define ICON_MS_YOUTUBE_ACTIVITY "\xef\xa1\x9a"	// U+f85a
-#define ICON_MS_YOUTUBE_ACTIVITY_2 "\xf3\xbf\xbe\x84"	// U+fff84
 #define ICON_MS_YOUTUBE_SEARCHED_FOR "\xee\xa3\xba"	// U+e8fa
-#define ICON_MS_YOUTUBE_VIDEO "\xf3\xbf\xbe\x83"	// U+fff83
 #define ICON_MS_ZONE_PERSON_ALERT "\xee\x9e\x81"	// U+e781
 #define ICON_MS_ZONE_PERSON_IDLE "\xee\x9d\xba"	// U+e77a
 #define ICON_MS_ZONE_PERSON_URGENT "\xee\x9e\x88"	// U+e788
