@@ -39,6 +39,7 @@ var IconsMaterialSymbols = Font{
 		"24fps_select":	"\xef\x8f\xb2", 	// U+f3f2
 		"24mp":	"\xee\xa5\xa2", 	// U+e962
 		"2d":	"\xee\xbc\xb7", 	// U+ef37
+		"2d_2":	"\xf3\xbf\xbc\x8e", 	// U+fff0e
 		"2k":	"\xee\xa5\xa3", 	// U+e963
 		"2k_plus":	"\xee\xa5\xa4", 	// U+e964
 		"2mp":	"\xee\xa5\xa5", 	// U+e965
@@ -46,6 +47,7 @@ var IconsMaterialSymbols = Font{
 		"30fps_select":	"\xee\xbf\x8f", 	// U+efcf
 		"360":	"\xee\x95\xb7", 	// U+e577
 		"3d":	"\xee\xb4\xb8", 	// U+ed38
+		"3d_2":	"\xf3\xbf\xbc\x8f", 	// U+fff0f
 		"3d_rotation":	"\xee\xa1\x8d", 	// U+e84d
 		"3g_mobiledata":	"\xee\xbf\x90", 	// U+efd0
 		"3g_mobiledata_badge":	"\xef\x9f\xb0", 	// U+f7f0
@@ -123,8 +125,8 @@ var IconsMaterialSymbols = Font{
 		"Add_call":	"\xef\x82\xb7", 	// U+f0b7
 		"Add_card":	"\xee\xae\x86", 	// U+eb86
 		"Add_chart":	"\xee\xbc\xbc", 	// U+ef3c
-		"Add_circle":	"\xee\x8e\xba", 	// U+e3ba
-		"Add_circle_outline":	"\xee\x8e\xba", 	// U+e3ba
+		"Add_circle":	"\xee\xa6\x90", 	// U+e990
+		"Add_circle_outline":	"\xee\xa6\x90", 	// U+e990
 		"Add_column_left":	"\xef\x90\xa5", 	// U+f425
 		"Add_column_right":	"\xef\x90\xa4", 	// U+f424
 		"Add_comment":	"\xee\x89\xa6", 	// U+e266
@@ -330,7 +332,7 @@ var IconsMaterialSymbols = Font{
 		"Arrows_outward":	"\xef\x9c\xac", 	// U+f72c
 		"Arrows_up_down_circle":	"\xee\xbb\xa3", 	// U+eee3
 		"Art_track":	"\xee\x81\xa0", 	// U+e060
-		"Article":	"\xee\xbd\x82", 	// U+ef42
+		"Article":	"\xee\xbe\x87", 	// U+ef87
 		"Article_person":	"\xef\x8d\xa8", 	// U+f368
 		"Article_shortcut":	"\xef\x96\x87", 	// U+f587
 		"Artist":	"\xee\x80\x9a", 	// U+e01a
@@ -365,6 +367,7 @@ var IconsMaterialSymbols = Font{
 		"Attachment":	"\xee\x8a\xbc", 	// U+e2bc
 		"Attractions":	"\xee\xa9\x92", 	// U+ea52
 		"Attribution":	"\xee\xbf\x9b", 	// U+efdb
+		"Audio_capture":	"\xf3\xbf\xbc\x83", 	// U+fff03
 		"Audio_description":	"\xef\x96\x8c", 	// U+f58c
 		"Audio_file":	"\xee\xae\x82", 	// U+eb82
 		"Audio_video_receiver":	"\xef\x97\x93", 	// U+f5d3
@@ -489,12 +492,18 @@ var IconsMaterialSymbols = Font{
 		"Battery_android_shield":	"\xef\x8c\x80", 	// U+f300
 		"Battery_change":	"\xef\x9f\xab", 	// U+f7eb
 		"Battery_charging_20":	"\xef\x82\xa2", 	// U+f0a2
+		"Battery_charging_20_2":	"\xf3\xbf\xbc\xbe", 	// U+fff3e
 		"Battery_charging_30":	"\xef\x82\xa3", 	// U+f0a3
+		"Battery_charging_30_2":	"\xf3\xbf\xbc\xbd", 	// U+fff3d
 		"Battery_charging_50":	"\xef\x82\xa4", 	// U+f0a4
+		"Battery_charging_50_2":	"\xf3\xbf\xbc\xbc", 	// U+fff3c
 		"Battery_charging_60":	"\xef\x82\xa5", 	// U+f0a5
+		"Battery_charging_60_2":	"\xf3\xbf\xbc\xbb", 	// U+fff3b
 		"Battery_charging_80":	"\xef\x82\xa6", 	// U+f0a6
+		"Battery_charging_80_2":	"\xf3\xbf\xbc\xba", 	// U+fff3a
 		"Battery_charging_90":	"\xef\x82\xa7", 	// U+f0a7
 		"Battery_charging_full":	"\xee\x86\xa3", 	// U+e1a3
+		"Battery_charging_full_2":	"\xf3\xbf\xbc\xb9", 	// U+fff39
 		"Battery_error":	"\xef\x9f\xaa", 	// U+f7ea
 		"Battery_full":	"\xee\x86\xa5", 	// U+e1a5
 		"Battery_full_alt":	"\xef\x84\xbb", 	// U+f13b
@@ -531,6 +540,7 @@ var IconsMaterialSymbols = Font{
 		"Bike_lane":	"\xef\x91\xba", 	// U+f47a
 		"Bike_scooter":	"\xee\xbd\x85", 	// U+ef45
 		"Biotech":	"\xee\xa8\xba", 	// U+ea3a
+		"Bitbucket":	"\xf3\xbf\xbc\x97", 	// U+fff17
 		"Blanket":	"\xee\xa0\xa8", 	// U+e828
 		"Blender":	"\xee\xbf\xa3", 	// U+efe3
 		"Blind":	"\xef\xa3\x96", 	// U+f8d6
@@ -558,6 +568,7 @@ var IconsMaterialSymbols = Font{
 		"Body_fat":	"\xee\x82\x98", 	// U+e098
 		"Body_system":	"\xee\x82\x99", 	// U+e099
 		"Bolt":	"\xee\xa8\x8b", 	// U+ea0b
+		"Bolt_boost":	"\xf3\xbf\xbd\xaa", 	// U+fff6a
 		"Bomb":	"\xef\x95\xa8", 	// U+f568
 		"Book":	"\xee\xa1\xae", 	// U+e86e
 		"Book_2":	"\xef\x94\xbe", 	// U+f53e
@@ -723,11 +734,13 @@ var IconsMaterialSymbols = Font{
 		"Car_fan_mid_low_right":	"\xef\x8c\xba", 	// U+f33a
 		"Car_fan_mid_right":	"\xef\x8c\xb9", 	// U+f339
 		"Car_fan_recirculate":	"\xef\x8c\xb8", 	// U+f338
+		"Car_fan_recirculate_2":	"\xf3\xbf\xbd\x80", 	// U+fff40
 		"Car_gear":	"\xef\x8c\xb7", 	// U+f337
 		"Car_lock":	"\xef\x8c\xb6", 	// U+f336
 		"Car_mirror_heat":	"\xef\x8c\xb5", 	// U+f335
 		"Car_rental":	"\xee\xa9\x95", 	// U+ea55
 		"Car_repair":	"\xee\xa9\x96", 	// U+ea56
+		"Car_spark":	"\xf3\xbf\xbb\xbe", 	// U+ffefe
 		"Car_tag":	"\xef\x93\xa3", 	// U+f4e3
 		"Card_giftcard":	"\xee\xa3\xb6", 	// U+e8f6
 		"Card_membership":	"\xee\xa3\xb7", 	// U+e8f7
@@ -750,7 +763,7 @@ var IconsMaterialSymbols = Font{
 		"Cast_pause":	"\xef\x97\xb0", 	// U+f5f0
 		"Cast_warning":	"\xef\x97\xaf", 	// U+f5ef
 		"Castle":	"\xee\xaa\xb1", 	// U+eab1
-		"Category":	"\xee\x95\xb4", 	// U+e574
+		"Category":	"\xee\x9c\xac", 	// U+e72c
 		"Category_search":	"\xef\x90\xb7", 	// U+f437
 		"Celebration":	"\xee\xa9\xa5", 	// U+ea65
 		"Cell_merge":	"\xef\xa0\xae", 	// U+f82e
@@ -780,9 +793,9 @@ var IconsMaterialSymbols = Font{
 		"Chat_info":	"\xef\x94\xab", 	// U+f52b
 		"Chat_paste_go":	"\xef\x9a\xbd", 	// U+f6bd
 		"Chat_paste_go_2":	"\xef\x8f\x8b", 	// U+f3cb
-		"Check":	"\xee\x97\x8a", 	// U+e5ca
+		"Check":	"\xee\x99\xa8", 	// U+e668
 		"Check_alert":	"\xf3\xbf\xbe\x85", 	// U+fff85
-		"Check_box":	"\xee\xa0\xb4", 	// U+e834
+		"Check_box":	"\xee\xa7\x9e", 	// U+e9de
 		"Check_box_outline_blank":	"\xee\xa0\xb5", 	// U+e835
 		"Check_circle":	"\xef\x82\xbe", 	// U+f0be
 		"Check_circle_filled":	"\xef\x82\xbe", 	// U+f0be
@@ -815,7 +828,7 @@ var IconsMaterialSymbols = Font{
 		"Chevron_line_up":	"\xee\xbb\x83", 	// U+eec3
 		"Chevron_right":	"\xee\x97\x8c", 	// U+e5cc
 		"Child_care":	"\xee\xad\x81", 	// U+eb41
-		"Child_friendly":	"\xee\xad\x82", 	// U+eb42
+		"Child_friendly":	"\xee\xbe\x80", 	// U+ef80
 		"Child_hat":	"\xee\xbc\xb0", 	// U+ef30
 		"Chip_extraction":	"\xef\xa0\xa1", 	// U+f821
 		"Chips":	"\xee\xa6\x93", 	// U+e993
@@ -942,7 +955,7 @@ var IconsMaterialSymbols = Font{
 		"Contrast_rtl_off":	"\xee\xb1\xb2", 	// U+ec72
 		"Contrast_square":	"\xef\x92\xa0", 	// U+f4a0
 		"Control_camera":	"\xee\x81\xb4", 	// U+e074
-		"Control_point":	"\xee\x8e\xba", 	// U+e3ba
+		"Control_point":	"\xee\xa6\x90", 	// U+e990
 		"Control_point_duplicate":	"\xee\x8e\xbb", 	// U+e3bb
 		"Controller_gen":	"\xee\xa0\xbd", 	// U+e83d
 		"Conversation":	"\xee\xbc\xaf", 	// U+ef2f
@@ -977,11 +990,14 @@ var IconsMaterialSymbols = Font{
 		"Credit_card_gear":	"\xef\x94\xad", 	// U+f52d
 		"Credit_card_heart":	"\xef\x94\xac", 	// U+f52c
 		"Credit_card_off":	"\xee\x93\xb4", 	// U+e4f4
+		"Credit_card_spark":	"\xf3\xbf\xbb\xbd", 	// U+ffefd
 		"Credit_score":	"\xee\xbf\xb1", 	// U+eff1
 		"Crib":	"\xee\x96\x88", 	// U+e588
 		"Crisis_alert":	"\xee\xaf\xa9", 	// U+ebe9
 		"Crop":	"\xee\x8e\xbe", 	// U+e3be
 		"Crop_16_9":	"\xee\x8e\xbc", 	// U+e3bc
+		"Crop_21_9":	"\xf3\xbf\xbc\x8a", 	// U+fff0a
+		"Crop_2_3":	"\xf3\xbf\xbc\x8b", 	// U+fff0b
 		"Crop_3_2":	"\xee\x8e\xbd", 	// U+e3bd
 		"Crop_5_4":	"\xee\x8e\xbf", 	// U+e3bf
 		"Crop_7_5":	"\xee\x8f\x80", 	// U+e3c0
@@ -1206,7 +1222,7 @@ var IconsMaterialSymbols = Font{
 		"Download_done":	"\xef\x82\x91", 	// U+f091
 		"Download_for_offline":	"\xef\x80\x80", 	// U+f000
 		"Downloading":	"\xef\x80\x81", 	// U+f001
-		"Draft":	"\xee\x99\xad", 	// U+e66d
+		"Draft":	"\xee\x99\xb4", 	// U+e674
 		"Draft_orders":	"\xee\x9e\xb3", 	// U+e7b3
 		"Drafts":	"\xee\x85\x91", 	// U+e151
 		"Drag_click":	"\xef\x9c\x9f", 	// U+f71f
@@ -1520,6 +1536,7 @@ var IconsMaterialSymbols = Font{
 		"Flight":	"\xee\x94\xb9", 	// U+e539
 		"Flight_class":	"\xee\x9f\x8b", 	// U+e7cb
 		"Flight_land":	"\xee\xa4\x84", 	// U+e904
+		"Flight_spark":	"\xf3\xbf\xbb\xbc", 	// U+ffefc
 		"Flight_takeoff":	"\xee\xa4\x85", 	// U+e905
 		"Flights_and_hotels":	"\xee\xa6\xab", 	// U+e9ab
 		"Flightsmode":	"\xee\xbe\x93", 	// U+ef93
@@ -1719,6 +1736,7 @@ var IconsMaterialSymbols = Font{
 		"Gif_box":	"\xee\x9e\xa3", 	// U+e7a3
 		"Girl":	"\xee\xad\xa8", 	// U+eb68
 		"Gite":	"\xee\x96\x8b", 	// U+e58b
+		"Gitlab":	"\xf3\xbf\xbc\x98", 	// U+fff18
 		"Glass_cup":	"\xef\x9b\xa3", 	// U+f6e3
 		"Globe":	"\xee\x99\x8c", 	// U+e64c
 		"Globe_2_cancel":	"\xf3\xbf\xbe\xb7", 	// U+fffb7
@@ -1946,7 +1964,7 @@ var IconsMaterialSymbols = Font{
 		"Iframe_off":	"\xef\x9c\x9c", 	// U+f71c
 		"Image":	"\xee\x8f\xb4", 	// U+e3f4
 		"Image_arrow_up":	"\xef\x8c\x97", 	// U+f317
-		"Image_aspect_ratio":	"\xee\x8f\xb5", 	// U+e3f5
+		"Image_aspect_ratio":	"\xee\x9a\xa6", 	// U+e6a6
 		"Image_inset":	"\xef\x89\x87", 	// U+f247
 		"Image_not_supported":	"\xef\x84\x96", 	// U+f116
 		"Image_search":	"\xee\x90\xbf", 	// U+e43f
@@ -1974,6 +1992,7 @@ var IconsMaterialSymbols = Font{
 		"Ink_eraser_off":	"\xee\x9f\xa3", 	// U+e7e3
 		"Ink_highlighter":	"\xee\x9b\x91", 	// U+e6d1
 		"Ink_highlighter_move":	"\xef\x94\xa4", 	// U+f524
+		"Ink_highlighter_off":	"\xf3\xbf\xbc\x94", 	// U+fff14
 		"Ink_marker":	"\xee\x9b\x92", 	// U+e6d2
 		"Ink_pen":	"\xee\x9b\x93", 	// U+e6d3
 		"Ink_selection":	"\xee\xbd\x92", 	// U+ef52
@@ -1984,7 +2003,7 @@ var IconsMaterialSymbols = Font{
 		"Insert_chart_filled":	"\xef\x83\x8c", 	// U+f0cc
 		"Insert_chart_outlined":	"\xef\x83\x8c", 	// U+f0cc
 		"Insert_comment":	"\xee\x89\x8c", 	// U+e24c
-		"Insert_drive_file":	"\xee\x99\xad", 	// U+e66d
+		"Insert_drive_file":	"\xee\x99\xb4", 	// U+e674
 		"Insert_emoticon":	"\xee\xa8\xa2", 	// U+ea22
 		"Insert_invitation":	"\xee\xa1\xb8", 	// U+e878
 		"Insert_link":	"\xee\x89\x90", 	// U+e250
@@ -2021,9 +2040,9 @@ var IconsMaterialSymbols = Font{
 		"Kanji_alcohol":	"\xef\x88\xbe", 	// U+f23e
 		"Kayaking":	"\xee\x94\x8c", 	// U+e50c
 		"Kebab_dining":	"\xee\xa1\x82", 	// U+e842
-		"Keep":	"\xef\x80\xa6", 	// U+f026
+		"Keep":	"\xef\x80\xa7", 	// U+f027
 		"Keep_off":	"\xee\x9b\xb9", 	// U+e6f9
-		"Keep_pin":	"\xef\x80\xa6", 	// U+f026
+		"Keep_pin":	"\xef\x80\xa7", 	// U+f027
 		"Keep_public":	"\xef\x95\xaf", 	// U+f56f
 		"Kettle":	"\xee\x8a\xb9", 	// U+e2b9
 		"Key":	"\xee\x9c\xbc", 	// U+e73c
@@ -2078,7 +2097,7 @@ var IconsMaterialSymbols = Font{
 		"Landscape_2_edit":	"\xef\x8c\x90", 	// U+f310
 		"Landscape_2_off":	"\xef\x93\x83", 	// U+f4c3
 		"Landslide":	"\xee\xaf\x97", 	// U+ebd7
-		"Language":	"\xee\xa2\x94", 	// U+e894
+		"Language":	"\xee\xa8\x87", 	// U+ea07
 		"Language_chinese_array":	"\xef\x9d\xa6", 	// U+f766
 		"Language_chinese_cangjie":	"\xef\x9d\xa5", 	// U+f765
 		"Language_chinese_dayi":	"\xef\x9d\xa4", 	// U+f764
@@ -2128,6 +2147,7 @@ var IconsMaterialSymbols = Font{
 		"Light_group":	"\xee\x8a\x8b", 	// U+e28b
 		"Light_group_2":	"\xf3\xbf\xbd\xb6", 	// U+fff76
 		"Light_mode":	"\xee\x94\x98", 	// U+e518
+		"Light_mode_auto":	"\xf3\xbf\xbc\x80", 	// U+fff00
 		"Light_off":	"\xee\xa6\xb8", 	// U+e9b8
 		"Lightbulb":	"\xee\xa4\x8f", 	// U+e90f
 		"Lightbulb_2":	"\xef\x8f\xa3", 	// U+f3e3
@@ -2160,9 +2180,10 @@ var IconsMaterialSymbols = Font{
 		"Lips":	"\xee\xba\xb2", 	// U+eeb2
 		"Liquor":	"\xee\xa9\xa0", 	// U+ea60
 		"List":	"\xee\xa2\x96", 	// U+e896
-		"List_alt":	"\xee\x83\xae", 	// U+e0ee
+		"List_alt":	"\xee\x99\xb7", 	// U+e677
 		"List_alt_add":	"\xef\x9d\x96", 	// U+f756
 		"List_alt_check":	"\xef\x8f\x9e", 	// U+f3de
+		"List_arrow":	"\xf3\xbf\xbc\xb3", 	// U+fff33
 		"Lists":	"\xee\xa6\xb9", 	// U+e9b9
 		"Live_help":	"\xee\x83\x86", 	// U+e0c6
 		"Live_tv":	"\xee\x98\xba", 	// U+e63a
@@ -2197,6 +2218,7 @@ var IconsMaterialSymbols = Font{
 		"Local_printshop":	"\xee\xa2\xad", 	// U+e8ad
 		"Local_see":	"\xee\x95\x97", 	// U+e557
 		"Local_shipping":	"\xee\x95\x98", 	// U+e558
+		"Local_shipping_spark":	"\xf3\xbf\xbb\xbb", 	// U+ffefb
 		"Local_taxi":	"\xee\x95\x99", 	// U+e559
 		"Location_automation":	"\xef\x85\x8f", 	// U+f14f
 		"Location_away":	"\xef\x85\x90", 	// U+f150
@@ -2255,6 +2277,7 @@ var IconsMaterialSymbols = Font{
 		"Mail_off":	"\xef\x92\x8b", 	// U+f48b
 		"Mail_outline":	"\xee\x85\x99", 	// U+e159
 		"Mail_shield":	"\xef\x89\x89", 	// U+f249
+		"Mail_spark":	"\xf3\xbf\xbb\xba", 	// U+ffefa
 		"Male":	"\xee\x96\x8e", 	// U+e58e
 		"Man":	"\xee\x93\xab", 	// U+e4eb
 		"Man_2":	"\xef\xa3\xa1", 	// U+f8e1
@@ -2476,8 +2499,8 @@ var IconsMaterialSymbols = Font{
 		"Move_to_inbox":	"\xee\x85\xa8", 	// U+e168
 		"Move_up":	"\xee\xad\xa4", 	// U+eb64
 		"Moved_location":	"\xee\x96\x94", 	// U+e594
-		"Movie":	"\xee\x90\x84", 	// U+e404
-		"Movie_creation":	"\xee\x90\x84", 	// U+e404
+		"Movie":	"\xee\x9a\x84", 	// U+e684
+		"Movie_creation":	"\xee\x9a\x84", 	// U+e684
 		"Movie_edit":	"\xef\xa1\x80", 	// U+f840
 		"Movie_edit_off":	"\xf3\xbf\xbd\xbd", 	// U+fff7d
 		"Movie_filter":	"\xee\x90\xba", 	// U+e43a
@@ -2636,7 +2659,7 @@ var IconsMaterialSymbols = Font{
 		"Not_interested":	"\xef\x82\x8c", 	// U+f08c
 		"Not_listed_location":	"\xee\x95\xb5", 	// U+e575
 		"Not_started":	"\xef\x83\x91", 	// U+f0d1
-		"Note":	"\xee\x99\xad", 	// U+e66d
+		"Note":	"\xee\x99\xb4", 	// U+e674
 		"Note_add":	"\xee\xa2\x9c", 	// U+e89c
 		"Note_alt":	"\xef\x81\x80", 	// U+f040
 		"Note_stack":	"\xef\x95\xa2", 	// U+f562
@@ -2729,7 +2752,7 @@ var IconsMaterialSymbols = Font{
 		"Pan_tool":	"\xee\xa4\xa5", 	// U+e925
 		"Pan_tool_alt":	"\xee\xae\xb9", 	// U+ebb9
 		"Pan_zoom":	"\xef\x99\x95", 	// U+f655
-		"Panorama":	"\xee\x90\x8b", 	// U+e40b
+		"Panorama":	"\xee\x9a\x91", 	// U+e691
 		"Panorama_fish_eye":	"\xee\x90\x8c", 	// U+e40c
 		"Panorama_horizontal":	"\xee\x90\x8d", 	// U+e40d
 		"Panorama_photosphere":	"\xee\xa7\x89", 	// U+e9c9
@@ -2749,6 +2772,7 @@ var IconsMaterialSymbols = Font{
 		"Party_mode":	"\xee\x9f\xba", 	// U+e7fa
 		"Passkey":	"\xef\xa1\xbf", 	// U+f87f
 		"Passport":	"\xee\xbb\x84", 	// U+eec4
+		"Passport_spark":	"\xf3\xbf\xbb\xb9", 	// U+ffef9
 		"Password":	"\xef\x81\x82", 	// U+f042
 		"Password_2":	"\xef\x92\xa9", 	// U+f4a9
 		"Password_2_off":	"\xef\x92\xa8", 	// U+f4a8
@@ -2846,7 +2870,7 @@ var IconsMaterialSymbols = Font{
 		"Phonelink_ring":	"\xef\x8b\xa8", 	// U+f2e8
 		"Phonelink_ring_off":	"\xef\x9e\xaa", 	// U+f7aa
 		"Phonelink_setup":	"\xef\x8b\x99", 	// U+f2d9
-		"Photo":	"\xee\x90\xb2", 	// U+e432
+		"Photo":	"\xee\x9a\x93", 	// U+e693
 		"Photo_album":	"\xee\x90\x91", 	// U+e411
 		"Photo_auto_merge":	"\xef\x94\xb0", 	// U+f530
 		"Photo_camera":	"\xee\x90\x92", 	// U+e412
@@ -2856,7 +2880,7 @@ var IconsMaterialSymbols = Font{
 		"Photo_frame":	"\xef\x83\x99", 	// U+f0d9
 		"Photo_library":	"\xee\x90\x93", 	// U+e413
 		"Photo_prints":	"\xee\xbe\xb2", 	// U+efb2
-		"Photo_size_select_actual":	"\xee\x90\xb2", 	// U+e432
+		"Photo_size_select_actual":	"\xee\x9a\x93", 	// U+e693
 		"Photo_size_select_large":	"\xee\x90\xb3", 	// U+e433
 		"Photo_size_select_small":	"\xee\x90\xb4", 	// U+e434
 		"Php":	"\xee\xae\x8f", 	// U+eb8f
@@ -2882,7 +2906,9 @@ var IconsMaterialSymbols = Font{
 		"Pin":	"\xef\x81\x85", 	// U+f045
 		"Pin_drop":	"\xee\x95\x9e", 	// U+e55e
 		"Pin_end":	"\xee\x9d\xa7", 	// U+e767
+		"Pin_history":	"\xf3\xbf\xbc\xae", 	// U+fff2e
 		"Pin_invoke":	"\xee\x9d\xa3", 	// U+e763
+		"Pin_road":	"\xf3\xbf\xbc\xad", 	// U+fff2d
 		"Pinboard":	"\xef\x8e\xab", 	// U+f3ab
 		"Pinboard_unread":	"\xef\x8e\xac", 	// U+f3ac
 		"Pinch":	"\xee\xac\xb8", 	// U+eb38
@@ -2961,7 +2987,7 @@ var IconsMaterialSymbols = Font{
 		"Print_disabled":	"\xee\xa7\x8f", 	// U+e9cf
 		"Print_error":	"\xef\x9e\xa0", 	// U+f7a0
 		"Print_lock":	"\xef\x99\x91", 	// U+f651
-		"Priority":	"\xee\x86\x9f", 	// U+e19f
+		"Priority":	"\xee\xbe\xb4", 	// U+efb4
 		"Priority_high":	"\xee\x99\x85", 	// U+e645
 		"Privacy":	"\xef\x85\x88", 	// U+f148
 		"Privacy_tip":	"\xef\x83\x9c", 	// U+f0dc
@@ -3197,6 +3223,7 @@ var IconsMaterialSymbols = Font{
 		"Screen_rotation_up":	"\xef\x99\xb8", 	// U+f678
 		"Screen_search_desktop":	"\xee\xbd\xb0", 	// U+ef70
 		"Screen_share":	"\xee\x83\xa2", 	// U+e0e2
+		"Screen_spark_pause":	"\xf3\xbf\xbb\xb8", 	// U+ffef8
 		"Screenshot":	"\xef\x81\x96", 	// U+f056
 		"Screenshot_frame":	"\xef\x99\xb7", 	// U+f677
 		"Screenshot_frame_2":	"\xef\x8d\xb4", 	// U+f374
@@ -3212,7 +3239,7 @@ var IconsMaterialSymbols = Font{
 		"Sd_card_alert":	"\xef\x81\x97", 	// U+f057
 		"Sd_storage":	"\xee\x98\xa3", 	// U+e623
 		"Sdk":	"\xee\x9c\xa0", 	// U+e720
-		"Search":	"\xee\xa2\xb6", 	// U+e8b6
+		"Search":	"\xee\xbd\xba", 	// U+ef7a
 		"Search_activity":	"\xef\x8f\xa5", 	// U+f3e5
 		"Search_check":	"\xef\xa0\x80", 	// U+f800
 		"Search_check_2":	"\xef\x91\xa9", 	// U+f469
@@ -3328,11 +3355,13 @@ var IconsMaterialSymbols = Font{
 		"Shelf_position":	"\xef\x9c\x82", 	// U+f702
 		"Shelves":	"\xef\xa1\xae", 	// U+f86e
 		"Shield":	"\xee\xa7\xa0", 	// U+e9e0
+		"Shield_card":	"\xf3\xbf\xbc\xb0", 	// U+fff30
 		"Shield_lock":	"\xef\x9a\x86", 	// U+f686
 		"Shield_locked":	"\xef\x96\x92", 	// U+f592
 		"Shield_moon":	"\xee\xaa\xa9", 	// U+eaa9
 		"Shield_person":	"\xef\x99\x90", 	// U+f650
 		"Shield_question":	"\xef\x94\xa9", 	// U+f529
+		"Shield_radar":	"\xf3\xbf\xbc\xaf", 	// U+fff2f
 		"Shield_toggle":	"\xef\x8a\xad", 	// U+f2ad
 		"Shield_watch":	"\xef\x8c\x8f", 	// U+f30f
 		"Shield_with_heart":	"\xee\x9e\x8f", 	// U+e78f
@@ -3495,10 +3524,14 @@ var IconsMaterialSymbols = Font{
 		"Speed_1_5x":	"\xef\x92\x94", 	// U+f494
 		"Speed_1_75":	"\xef\x93\x91", 	// U+f4d1
 		"Speed_1_7x":	"\xef\x92\x93", 	// U+f493
+		"Speed_2":	"\xf3\xbf\xbc\xb8", 	// U+fff38
 		"Speed_2x":	"\xef\x93\xab", 	// U+f4eb
+		"Speed_3":	"\xf3\xbf\xbc\xb7", 	// U+fff37
+		"Speed_4":	"\xf3\xbf\xbc\xb6", 	// U+fff36
 		"Speed_camera":	"\xef\x91\xb0", 	// U+f470
 		"Spellcheck":	"\xee\xa3\x8e", 	// U+e8ce
 		"Split_scene":	"\xef\x8e\xbf", 	// U+f3bf
+		"Split_scene_2":	"\xf3\xbf\xbb\xb7", 	// U+ffef7
 		"Split_scene_down":	"\xef\x8b\xbf", 	// U+f2ff
 		"Split_scene_left":	"\xef\x8b\xbe", 	// U+f2fe
 		"Split_scene_right":	"\xef\x8b\xbd", 	// U+f2fd
@@ -3824,6 +3857,8 @@ var IconsMaterialSymbols = Font{
 		"Tile_large":	"\xef\x8f\x83", 	// U+f3c3
 		"Tile_medium":	"\xef\x8f\x82", 	// U+f3c2
 		"Tile_small":	"\xef\x8f\x81", 	// U+f3c1
+		"Tilt_arrow_down":	"\xf3\xbf\xbc\xa6", 	// U+fff26
+		"Tilt_arrow_up":	"\xf3\xbf\xbc\xa5", 	// U+fff25
 		"Time_auto":	"\xef\x83\xa4", 	// U+f0e4
 		"Time_to_leave":	"\xee\xbf\xb7", 	// U+eff7
 		"Timelapse":	"\xee\x90\xa2", 	// U+e422
@@ -3875,6 +3910,7 @@ var IconsMaterialSymbols = Font{
 		"Total_dissolved_solids":	"\xef\xa1\xb7", 	// U+f877
 		"Touch_app":	"\xee\xa4\x93", 	// U+e913
 		"Touch_double":	"\xef\x8e\x8b", 	// U+f38b
+		"Touch_double_2":	"\xf3\xbf\xbc\xb5", 	// U+fff35
 		"Touch_long":	"\xef\x8e\x8a", 	// U+f38a
 		"Touch_triple":	"\xef\x8e\x89", 	// U+f389
 		"Touchpad_mouse":	"\xef\x9a\x87", 	// U+f687
@@ -4020,6 +4056,8 @@ var IconsMaterialSymbols = Font{
 		"Video_camera_front_off":	"\xef\xa0\xbb", 	// U+f83b
 		"Video_chat":	"\xef\xa2\xa0", 	// U+f8a0
 		"Video_file":	"\xee\xae\x87", 	// U+eb87
+		"Video_frame_copy":	"\xf3\xbf\xbc\x8d", 	// U+fff0d
+		"Video_frame_save":	"\xf3\xbf\xbc\x8c", 	// U+fff0c
 		"Video_label":	"\xee\x81\xb1", 	// U+e071
 		"Video_library":	"\xee\x81\x8a", 	// U+e04a
 		"Video_search":	"\xee\xbf\x86", 	// U+efc6
@@ -4089,6 +4127,7 @@ var IconsMaterialSymbols = Font{
 		"Vr180_create2d":	"\xee\xbf\x8a", 	// U+efca
 		"Vr180_create2d_off":	"\xef\x95\xb1", 	// U+f571
 		"Vrpano":	"\xef\x82\x82", 	// U+f082
+		"Walk_bike":	"\xf3\xbf\xbc\x81", 	// U+fff01
 		"Wall_art":	"\xee\xbf\x8b", 	// U+efcb
 		"Wall_lamp":	"\xee\x8a\xb4", 	// U+e2b4
 		"Wallet":	"\xef\xa3\xbf", 	// U+f8ff
@@ -4107,6 +4146,7 @@ var IconsMaterialSymbols = Font{
 		"Watch_alert":	"\xf3\xbf\xbf\x91", 	// U+fffd1
 		"Watch_arrow":	"\xef\x8b\x8a", 	// U+f2ca
 		"Watch_arrow_down":	"\xf3\xbf\xbf\x8f", 	// U+fffcf
+		"Watch_button":	"\xf3\xbf\xbc\xa0", 	// U+fff20
 		"Watch_button_press":	"\xef\x9a\xaa", 	// U+f6aa
 		"Watch_check":	"\xef\x91\xa8", 	// U+f468
 		"Watch_later":	"\xee\xbf\x96", 	// U+efd6
@@ -4143,11 +4183,12 @@ var IconsMaterialSymbols = Font{
 		"Wb_shade":	"\xee\xa8\x81", 	// U+ea01
 		"Wb_sunny":	"\xee\x90\xb0", 	// U+e430
 		"Wb_twilight":	"\xee\x87\x86", 	// U+e1c6
+		"Wb_twilight_2":	"\xf3\xbf\xbc\x9f", 	// U+fff1f
 		"Wc":	"\xee\x98\xbd", 	// U+e63d
 		"Weather_hail":	"\xef\x99\xbf", 	// U+f67f
 		"Weather_mix":	"\xef\x98\x8b", 	// U+f60b
 		"Weather_snowy":	"\xee\x8b\x8d", 	// U+e2cd
-		"Web":	"\xee\x81\x91", 	// U+e051
+		"Web":	"\xee\x9a\x81", 	// U+e681
 		"Web_asset":	"\xee\x81\xa9", 	// U+e069
 		"Web_asset_off":	"\xee\xbd\x87", 	// U+ef47
 		"Web_stories":	"\xee\x96\x95", 	// U+e595
@@ -4181,6 +4222,7 @@ var IconsMaterialSymbols = Font{
 		"Wifi_calling_bar_2":	"\xef\x91\x8b", 	// U+f44b
 		"Wifi_calling_bar_3":	"\xef\x91\x8a", 	// U+f44a
 		"Wifi_channel":	"\xee\xad\xaa", 	// U+eb6a
+		"Wifi_device":	"\xf3\xbf\xbc\xb4", 	// U+fff34
 		"Wifi_find":	"\xee\xac\xb1", 	// U+eb31
 		"Wifi_home":	"\xef\x99\xb1", 	// U+f671
 		"Wifi_lock":	"\xee\x87\xa1", 	// U+e1e1
@@ -4212,6 +4254,7 @@ var IconsMaterialSymbols = Font{
 		"Work_update":	"\xef\x97\xb8", 	// U+f5f8
 		"Workflow":	"\xee\xa8\x84", 	// U+ea04
 		"Workspace_premium":	"\xee\x9e\xaf", 	// U+e7af
+		"Workspace_studio":	"\xf3\xbf\xbb\xb6", 	// U+ffef6
 		"Workspaces":	"\xee\xa8\x8f", 	// U+ea0f
 		"Workspaces_outline":	"\xee\xa8\x8f", 	// U+ea0f
 		"Wounds_injuries":	"\xee\x84\xbf", 	// U+e13f
